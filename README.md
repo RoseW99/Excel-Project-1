@@ -1,1 +1,1 @@
-# Excel project based on retail sales dataset.
+# Excel project using sales dataset.
